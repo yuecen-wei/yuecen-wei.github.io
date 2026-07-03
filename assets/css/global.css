@@ -111,6 +111,10 @@ div.lazy {
     scroll-margin-top: 96px;
 }
 
+.publications-page {
+    padding-bottom: 55vh;
+}
+
 #navbar-year {
     z-index: 10;
 }
