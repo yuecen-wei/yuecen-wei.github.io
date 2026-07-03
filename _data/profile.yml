@@ -1,0 +1,43 @@
+primary_name: "Yuecen Wei"
+secondary_name: ""
+navbar_name: "Yuecen Wei"
+
+positions:
+- name: Ph.D. Candidate
+- name: School of Software, Beihang University
+
+email: ""
+# cv_link: link-to-your-cv-file
+gscholar: z2gWWkMAAAAJ
+github: yuecen-wei
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am currently a Ph.D. candidate at the School of Software at Beihang University. My research interests include
+    graph learning and privacy protection, with a focus on graph representation learning, privacy-preserving machine
+    learning, membership inference attacks, and geometric deep learning.
+  </p>
+  <p>
+    I have published several papers in venues including The Web Conference (WWW), KDD, AAAI, ICDM, IJCAI, CVPR, and
+    Knowledge and Information Systems. According to Google Scholar records retrieved in July 2026, my work has 200+
+    citations.
+  </p>
+
+portrait_url: /assets/images/photos/portrait.png
+portrait_caption: >-
+  Yuecen Wei
+
+education:
+- name: Beihang University
+  logo: /assets/images/empty_300x200.png
+  position: >-
+    School of Software <br/>
+    Ph.D. Candidate
+  date: present
+
+awards:
+- name: Verified academic profile, buaa.edu.cn
+  date: 2026
