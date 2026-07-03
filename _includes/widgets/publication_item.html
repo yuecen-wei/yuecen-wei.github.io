@@ -6,7 +6,7 @@
         <p class="mt-0 mb-0 small">
             {{ item.pub_pre }}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }}
         </p>
-        <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
+        <p class="small pb-0 mb-0 lh-125 text-muted publication-links">
             {% for link in item.links %}
             {% if link[1].url %}
             <a target="{{ link[1]['target'] }}" href="{{ link[1]['url'] }}">[{{ link[0] }}]</a>
