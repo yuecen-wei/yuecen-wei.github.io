@@ -91,3 +91,34 @@ div.lazy {
 .email-text {
     font-family: Source Code Pro, monospace;
 }
+
+.profile-social-links a,
+.profile-social-links a:hover,
+.profile-social-links a:focus {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    line-height: 1;
+}
+
+.profile-social-links a:hover i,
+.profile-social-links a:focus i {
+    text-decoration: none;
+}
+
+.publication-year-heading {
+    scroll-margin-top: 96px;
+}
+
+#navbar-year {
+    z-index: 10;
+}
+
+#navbar-year .nav-link {
+    display: block;
+    margin-bottom: 0.35rem;
+    pointer-events: auto;
+    position: relative;
+    z-index: 1;
+}
