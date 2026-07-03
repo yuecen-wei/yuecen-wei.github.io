@@ -1,12 +1,17 @@
 ---
 title: "RPGen: Robust and Differentially Private Synthetic Image Generation"
 authors:
+  - Zihao Wang
+  - Hao Peng
+  - Wei Dong
   - Yuecen Wei
-date: 2026-02-02
+  - Li Sun
+  - Zhengtao Yu
+date: 2026-02-01
 pub: "AAAI"
 pub_date: "2026"
+pub_last: "(CCF-A)"
 selected: false
-abstract: "Studies robust and differentially private synthetic image generation."
 links:
-  Google Scholar: "https://scholar.google.com/citations?user=z2gWWkMAAAAJ"
+  DOI: "https://doi.org/10.1609/aaai.v40i13.38016"
 ---

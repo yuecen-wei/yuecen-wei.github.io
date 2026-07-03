@@ -2,11 +2,18 @@
 title: "Towards Geometry-Consistent Federated Graph Learning"
 authors:
   - Yuecen Wei
+  - Zhiyu Zhuang
+  - Yisen Gao
+  - Xingcheng Fu
+  - Qingyun Sun
+  - Ziwei Zhang
+  - Tianyu Wo
+  - Chunming Hu
 date: 2026-04-01
 pub: "WWW"
 pub_date: "2026"
-selected: true
-abstract: "Explores geometry-consistent federated learning for graph representation learning."
+pub_last: "(CCF-A)"
+selected: false
 links:
-  Google Scholar: "https://scholar.google.com/citations?user=z2gWWkMAAAAJ"
+  DOI: "https://doi.org/10.1145/3774904.3792655"
 ---

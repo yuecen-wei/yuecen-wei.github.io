@@ -1,12 +1,20 @@
 ---
 title: "Adaptive Differentially Private Structural Entropy Minimization for Unsupervised Social Event Detection"
 authors:
+  - Zhiwei Yang
   - Yuecen Wei
+  - Haoran Li
+  - Qian Li
+  - Lei Jiang
+  - Li Sun
+  - Xiaoyan Yu
+  - Chunming Hu
+  - Hao Peng
 date: 2024-10-01
 pub: "CIKM"
 pub_date: "2024"
+pub_last: "(CCF-B)"
 selected: false
-abstract: "Applies adaptive differential privacy and structural entropy minimization to unsupervised social event detection."
 links:
-  Google Scholar: "https://scholar.google.com/citations?user=z2gWWkMAAAAJ"
+  DOI: "https://doi.org/10.1145/3627673.3679537"
 ---

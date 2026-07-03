@@ -1,12 +1,19 @@
 ---
 title: "Galaxy Walker: Geometry-Aware VLMs for Galaxy-Scale Understanding"
 authors:
+  - Tianyu Chen
+  - Xingcheng Fu
+  - Yisen Gao
+  - Haodong Qian
   - Yuecen Wei
+  - Kun Yan
+  - Haoyi Zhou
+  - Jianxin Li
 date: 2025-06-01
 pub: "CVPR"
 pub_date: "2025"
-selected: true
-abstract: "Develops geometry-aware vision-language models for large-scale understanding."
+pub_last: "(CCF-A, highlight)"
+selected: false
 links:
-  Google Scholar: "https://scholar.google.com/citations?user=z2gWWkMAAAAJ"
+  DOI: "https://doi.org/10.1109/CVPR52734.2025.00389"
 ---

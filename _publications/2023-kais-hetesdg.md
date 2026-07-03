@@ -2,11 +2,18 @@
 title: "Heterogeneous Graph Neural Network with Semantic-Aware Differential Privacy Guarantees"
 authors:
   - Yuecen Wei
-date: 2023-01-01
+  - Xingcheng Fu
+  - Dongqi Yan
+  - Qingyun Sun
+  - Hao Peng
+  - Jia Wu
+  - Jinyan Wang
+  - Xianxian Li
+date: 2023-10-01
 pub: "Knowledge and Information Systems"
 pub_date: "2023"
+pub_last: "(CCF-B)"
 selected: false
-abstract: "Provides semantic-aware differential privacy guarantees for heterogeneous graph neural networks."
 links:
-  Google Scholar: "https://scholar.google.com/citations?user=z2gWWkMAAAAJ"
+  DOI: "https://doi.org/10.1007/s10115-023-01895-6"
 ---

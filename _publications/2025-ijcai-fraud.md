@@ -1,12 +1,20 @@
 ---
 title: "Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning"
 authors:
-  - Yuecen Wei
+  - Yudan Song*
+  - Yuecen Wei*
+  - Yuhang Lu
+  - Qingyun Sun
+  - Minglai Shao
+  - Li-e Wang
+  - Chunming Hu
+  - Xianxian Li
+  - Xingcheng Fu
 date: 2025-08-01
 pub: "IJCAI"
 pub_date: "2025"
-selected: true
-abstract: "Addresses message imbalance in fraud detection using dual-view graph representation learning."
+pub_last: "(CCF-B)"
+selected: false
 links:
-  Google Scholar: "https://scholar.google.com/citations?user=z2gWWkMAAAAJ"
+  DOI: "https://doi.org/10.24963/ijcai.2025/365"
 ---

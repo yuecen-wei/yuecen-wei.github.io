@@ -1,12 +1,17 @@
 ---
-title: "Privacy Auditing of Multi-Domain Graph Pre-Trained Model under Membership Inference Attacks"
+title: "Privacy Auditing of Multi-Domain Graph Pre-Trained Model Under Membership Inference Attacks"
 authors:
+  - Jiayi Luo
+  - Qingyun Sun
   - Yuecen Wei
-date: 2026-02-01
+  - Haonan Yuan
+  - Xingcheng Fu
+  - Jianxin Li
+date: 2026-02-02
 pub: "AAAI"
 pub_date: "2026"
-selected: true
-abstract: "Audits privacy risks of multi-domain graph pre-trained models under membership inference attacks."
+pub_last: "(CCF-A)"
+selected: false
 links:
-  Google Scholar: "https://scholar.google.com/citations?user=z2gWWkMAAAAJ"
+  DOI: "https://doi.org/10.1609/aaai.v40i18.38576"
 ---
