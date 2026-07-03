@@ -14,5 +14,5 @@ pub_date: "2023"
 pub_last: "(CCF-A, spotlight)"
 selected: false
 links:
-  DOI: "https://doi.org/10.1145/3543507.3583403"
+  paper link: "https://doi.org/10.1145/3543507.3583403"
 ---

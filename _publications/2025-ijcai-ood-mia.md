@@ -15,5 +15,5 @@ pub_date: "2025"
 pub_last: "(CCF-B)"
 selected: false
 links:
-  DOI: "https://doi.org/10.24963/ijcai.2025/375"
+  paper link: "https://doi.org/10.24963/ijcai.2025/375"
 ---

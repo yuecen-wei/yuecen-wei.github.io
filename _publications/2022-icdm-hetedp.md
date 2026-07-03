@@ -14,5 +14,5 @@ pub_date: "2022"
 pub_last: "(CCF-B, Best-rank paper)"
 selected: false
 links:
-  DOI: "https://doi.org/10.1109/ICDM54844.2022.00063"
+  paper link: "https://doi.org/10.1109/ICDM54844.2022.00063"
 ---

@@ -15,5 +15,5 @@ pub_date: "2026"
 pub_last: "(CCF-A)"
 selected: false
 links:
-  DOI: "https://doi.org/10.1145/3774904.3792655"
+  paper link: "https://doi.org/10.1145/3774904.3792655"
 ---

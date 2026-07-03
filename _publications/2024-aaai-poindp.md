@@ -14,5 +14,5 @@ pub_date: "2024"
 pub_last: "(CCF-A)"
 selected: false
 links:
-  DOI: "https://doi.org/10.1609/aaai.v38i8.28767"
+  paper link: "https://doi.org/10.1609/aaai.v38i8.28767"
 ---

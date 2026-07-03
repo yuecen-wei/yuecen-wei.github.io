@@ -15,5 +15,5 @@ pub_date: "2025"
 pub_last: "(CCF-A, highlight)"
 selected: false
 links:
-  DOI: "https://doi.org/10.1109/CVPR52734.2025.00389"
+  paper link: "https://doi.org/10.1109/CVPR52734.2025.00389"
 ---

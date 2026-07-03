@@ -16,5 +16,5 @@ pub_date: "2024"
 pub_last: "(CCF-B)"
 selected: false
 links:
-  DOI: "https://doi.org/10.1145/3627673.3679537"
+  paper link: "https://doi.org/10.1145/3627673.3679537"
 ---

@@ -15,5 +15,5 @@ pub_date: "2023"
 pub_last: "(CCF-B)"
 selected: false
 links:
-  DOI: "https://doi.org/10.1007/s10115-023-01895-6"
+  paper link: "https://doi.org/10.1007/s10115-023-01895-6"
 ---
